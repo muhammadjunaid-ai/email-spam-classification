@@ -1,4 +1,6 @@
+streamlit==1.19.0
+altair==4.2.2
+vega-datasets==0.9.0
 pandas
 scikit-learn
-streamlit
 nltk
